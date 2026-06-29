@@ -1,26 +1,29 @@
-
-  {
-    "name": "Alice",
-    "lastname": "Dupont",
-    "email": "alice.dupont@example.com",
-    "username": "aliceD",
-    "password": "A1ic3!2026",
-    "phone": "+33-612345678"
-  },
-  {
-    "name": "Mohamed",
-    "lastname": "Benali",
-    "email": "mohamed.benali@example.com",
-    "username": "mbenali",
-    "password": "M0h@med2026",
-    "phone": "+212-612345678"
-  },
-  {
-    "name": "Sofia",
-    "lastname": "Rossi",
-    "email": "sofia.rossi@example.com",
-    "username": "srossi",
-    "password": "S0f!a2026",
-    "phone": "+39-612345678"
-  }
+{
+  "users": [
+    {
+      "name": "Alice",
+      "lastname": "Dupont",
+      "email": "alice.dupont@example.com",
+      "username": "aliceD",
+      "password": "A1ic3!2026",
+      "phone": "+33-612345678"
+    },
+    {
+      "name": "Mohamed",
+      "lastname": "Benali",
+      "email": "mohamed.benali@example.com",
+      "username": "mbenali",
+      "password": "M0h@med2026",
+      "phone": "+212-612345678"
+    },
+    {
+      "name": "Sofia",
+      "lastname": "Rossi",
+      "email": "sofia.rossi@example.com",
+      "username": "srossi",
+      "password": "S0f!a2026",
+      "phone": "+39-612345678"
+    }
+  ]
+}
 
